@@ -1,0 +1,9 @@
+{
+    "name": "Yone",
+    "strength": 18,
+    "dexterity": 12,
+    "armor": "leather",
+    "weapon": "maul",
+    "shield": false,
+    "HP": 56
+}

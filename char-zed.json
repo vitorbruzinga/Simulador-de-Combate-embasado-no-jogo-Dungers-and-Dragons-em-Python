@@ -1,0 +1,9 @@
+{
+    "name": "Zed",
+    "strength": 50,
+    "dexterity": 8,
+    "armor": "ring mail",
+    "weapon": "mace",
+    "shield": false,
+    "HP": 100
+}

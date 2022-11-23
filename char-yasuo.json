@@ -1,0 +1,10 @@
+{
+    "name": "Yasuo",
+    "strength": 45,
+    "dexterity": 20,
+    "armor": "half plate",
+    "weapon": "maul",
+    "shield": true,
+    "HP": 76
+}
+
